@@ -1,1 +1,1 @@
-# [404-error(404-error.pages.dev)
+# [404-error](404-error.pages.dev)
